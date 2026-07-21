@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/AWS/ELB.md",
+                "file": "Cloud/AWS/Message-Queuing in AWS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ELB"
+              "title": "Message-Queuing in AWS"
             }
           }
         ]
@@ -210,8 +210,9 @@
   },
   "active": "3e00441c5a95eb4a",
   "lastOpenFiles": [
-    "Cloud/AWS/EC2 Auto Scaling.md",
     "Cloud/AWS/ELB.md",
+    "Cloud/AWS/Message-Queuing in AWS.md",
+    "Cloud/AWS/EC2 Auto Scaling.md",
     "Cloud/AWS/Pricing Patterns for EC2.md",
     "Cloud/AWS/Instance types.md",
     "Untitled.md",
