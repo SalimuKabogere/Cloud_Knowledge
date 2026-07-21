@@ -14,3 +14,8 @@ Assume you have a powerful PC with 64 cores, 512 GB RAM, 1TB storage
 ---
 ![[Pasted image 20260721145359.png]] 
 This is a small visualization of how a Hypervisor divides the physical machine to be full functional
+
+---
+**INSTANCES**
+Now AWS calls each of these virtual machines an EC2 Instance
+Each instance behaves like a separate computer
