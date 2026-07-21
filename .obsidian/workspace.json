@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/AWS/Benefits of cloud computing.md",
+                "file": "Cloud/AWS/AWS Service Categories.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Benefits of cloud computing"
+              "title": "AWS Service Categories"
             }
           }
         ],
@@ -55,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -203,6 +204,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -221,10 +223,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6284b9e6119ed2ed",
+  "active": "bb028ce9db78c282",
   "lastOpenFiles": [
-    "Cloud/AWS/Introduction.md",
     "Cloud/AWS/Benefits of cloud computing.md",
+    "Cloud/AWS/AWS Service Categories.md",
+    "Cloud/AWS/Introduction.md",
     "Pasted image 20260721125423.png",
     "Excalidraw/Drawing 2026-07-21 12.50.38.excalidraw.md",
     "Excalidraw",
