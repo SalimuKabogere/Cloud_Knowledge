@@ -6,7 +6,7 @@ Provides most computing resources, storage, dbs and other IT services
 
 Cloud is the on-demand delivery of resources over the internet with a PAYG pricing
 Cloud computing is built on the Client-Server model 
-![[Pasted image 20260721125423.png
+![[Pasted image 20260721125423.png]]
 
 **Deployin Models**
 Hybrid : Connects both
