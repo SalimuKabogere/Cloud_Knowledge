@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/AWS/EC2 Auto Scaling.md",
+                "file": "Cloud/AWS/ELB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EC2 Auto Scaling"
+              "title": "ELB"
             }
           }
         ]
@@ -210,8 +210,9 @@
   },
   "active": "3e00441c5a95eb4a",
   "lastOpenFiles": [
-    "Cloud/AWS/Pricing Patterns for EC2.md",
     "Cloud/AWS/EC2 Auto Scaling.md",
+    "Cloud/AWS/ELB.md",
+    "Cloud/AWS/Pricing Patterns for EC2.md",
     "Cloud/AWS/Instance types.md",
     "Untitled.md",
     "Cloud/AWS/AWS Multitenancy.md",
