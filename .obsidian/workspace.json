@@ -11,10 +11,14 @@
             "id": "6639495db850d82c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/AWS/Introduction.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Introduction"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cloud/AWS/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Introduction"
             }
           },
           {
@@ -107,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cloud/AWS/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Introduction"
             }
           },
           {
@@ -132,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Cloud/AWS/Introduction.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Introduction"
             }
           },
           {
@@ -201,6 +209,9 @@
   "active": "6639495db850d82c",
   "lastOpenFiles": [
     "Cloud/AWS/Introduction.md",
+    "Pasted image 20260721125423.png",
+    "Excalidraw/Drawing 2026-07-21 12.50.38.excalidraw.md",
+    "Excalidraw",
     "Programming Note.md.md",
     "Templates/Things i learned.md",
     "2026-07-21.md",
