@@ -33,5 +33,5 @@ AWS offers two service,
 
 **How it works all together**
 Push your container to ECR
-Choose an orchestration platform, either ECS or EKS
-Select which compute to run your container eg EC2 or Fargate
+Choose an orchestration platform, either ECS or EKS :These are orchestration platforms
+Select which compute to run your container eg EC2 or Fargate: these are hosting platforms
