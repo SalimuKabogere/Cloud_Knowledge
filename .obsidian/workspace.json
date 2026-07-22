@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/AWS/AWS Infrastructure.md",
+                "file": "Cloud/AWS/Availability Zones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AWS Infrastructure"
+              "title": "Availability Zones"
             }
           }
         ]
@@ -210,7 +210,9 @@
   },
   "active": "02ed33ab127e4e7e",
   "lastOpenFiles": [
+    "Pasted image 20260722175911.png",
     "Cloud/AWS/AWS Infrastructure.md",
+    "Cloud/AWS/Availability Zones.md",
     "Cloud/AWS/AWS Containers.md",
     "Pasted image 20260722171122.png",
     "Excalidraw/Drawing 2026-07-22 17.07.09.excalidraw.md",
