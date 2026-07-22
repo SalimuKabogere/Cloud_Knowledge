@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/AWS/Message-Queuing in AWS.md",
+                "file": "Cloud/AWS/Serverless.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Message-Queuing in AWS"
+              "title": "Serverless"
             }
           }
         ]
@@ -210,8 +210,9 @@
   },
   "active": "3e00441c5a95eb4a",
   "lastOpenFiles": [
-    "Cloud/AWS/ELB.md",
     "Cloud/AWS/Message-Queuing in AWS.md",
+    "Cloud/AWS/Serverless.md",
+    "Cloud/AWS/ELB.md",
     "Cloud/AWS/EC2 Auto Scaling.md",
     "Cloud/AWS/Pricing Patterns for EC2.md",
     "Cloud/AWS/Instance types.md",
